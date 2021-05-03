@@ -5,15 +5,15 @@ const yellow = "\x1b[33m"
 const blue = "\x1b[34m"
 const magenta = "\x1b[35m"
 const cyan = "\x1b[36m"
-const white = "\x1b[37m"
+const white = "\x1b[37m"//ansi go brrr
 
 module.exports = {
-	black: black,
-	red: red,
-	green: green,
-	yellow: yellow,
-	blue: blue,
-	magenta: magenta,
-	cyan: cyan,
-	white: white
+	black,
+	red,
+	green,
+	yellow,
+	blue,
+	magenta,
+	cyan,
+	white
 }

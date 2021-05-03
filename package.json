@@ -1,11 +1,23 @@
 {
   "name": "simple-colors.js",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Simple colors!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "tags": [
+    "colors",
+    "simple"
+  ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crosis08/simple-colors.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Crosis08/simple-colors.js/issues"
+  },
+  "homepage": "https://github.com/Crosis08/simple-colors.js#readme"
 }

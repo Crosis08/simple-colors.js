@@ -1,5 +1,7 @@
 const Color = require(`./src/index.js`);
 module.exports = Color;
+console.log(new Color(`bob`).Red);
+console.log(`no u`)
 /*
 IMPORTANT CODE DO NOT INTERFERE THIS IS IMPORTANT TO THE OVERALL CLEANNESS OF THE CODE
 
